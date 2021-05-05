@@ -13,7 +13,7 @@ A Colorado Board of Elections employee provided me with the following tasks to c
 ## Resources
 
 - Data Source was election_results.csv
-- I used the following software: Python 3.8.5, Visual Studio code
+- I used the following software: Python 3.7.6, Visual Studio code
 
 ## Summary
 
