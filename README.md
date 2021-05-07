@@ -1,6 +1,6 @@
 # Election_Analysis_Week_3
 
-## Overview of Election Audit
+##Overview of Election Audit
 A Colorado Board of Elections employee provided me with the following tasks to complete an election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
@@ -47,4 +47,4 @@ With the code I had created, the following output was returned in the terminal:
     
  ## Election Audit Summary
 The script that I created can be used with some modifications for any type of election and can be updated to take into account demographic data, such as age groups and ethnicity. This can be done by initializing lists and dictionaries similar to the candidate_options, candidate_votes or the county_list and county_votes used in my code. By having a similar structure with using a for loop to count the amount of voters in certain age groups or ethnicities, the election commision can get a better idea about which candidates were popular with which groups. 
-Another way this script could be used for any type of election, with the code updated is to store election data over different election periods. This would again require initializing another list and dictionary to store additional data that would be iterated through a for loop. This data would be useful in determining if there were any shifts in voter turnout.
+Another way this script could be used for any type of election, with the code updated is to store election data over different election periods. This would again require initializing another list and dictionary to store additional data that would be iterated through a for loop.
