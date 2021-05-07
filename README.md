@@ -46,7 +46,7 @@ With the code I had created, the following output was returned in the terminal:
 ![Results from Terminal](https://github.com/swlim314/Election_Analysis_Week_3/blob/65189046089400ac35a0603ef2e4c19437eb12fe/Images/Results%20from%20Terminal.png)
 
 This was then saved into a text file, with the output as follows:
-![Results saved to text file]https://github.com/swlim314/Election_Analysis_Week_3/blob/396196888b478c73b66e25bba4694a57ffd04bf1/Images/Results%20saved%20to%20text%20file.png
+![Results saved to text file](https://github.com/swlim314/Election_Analysis_Week_3/blob/396196888b478c73b66e25bba4694a57ffd04bf1/Images/Results%20saved%20to%20text%20file.png)
     
  ## Election Audit Summary
 The script that I created can be used with some modifications for any type of election and can be updated to take into account demographic data, such as age groups and ethnicity. This can be done by initializing lists and dictionaries similar to the candidate_options, candidate_votes or the county_list and county_votes used in my code. By having a similar structure with using a for loop to count the amount of voters in certain age groups or ethnicities, the election commision can get a better idea about which candidates were popular with which groups. 
