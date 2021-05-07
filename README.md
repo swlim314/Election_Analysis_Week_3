@@ -1,6 +1,6 @@
 # Election_Analysis_Week_3
 
-##Overview of Election Audit
+## Overview of Election Audit
 A Colorado Board of Elections employee provided me with the following tasks to complete an election audit of a recent local congressional election.
 
 1. Calculate the total number of votes cast.
