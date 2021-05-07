@@ -45,6 +45,9 @@ With the code I had created, the following output was returned in the terminal:
 
 ![Results from Terminal](https://github.com/swlim314/Election_Analysis_Week_3/blob/65189046089400ac35a0603ef2e4c19437eb12fe/Images/Results%20from%20Terminal.png)
 
+
+
+
 This was then saved into a text file, with the output as follows:
 ![Results saved to text file](https://github.com/swlim314/Election_Analysis_Week_3/blob/396196888b478c73b66e25bba4694a57ffd04bf1/Images/Results%20saved%20to%20text%20file.png)
     
