@@ -15,7 +15,7 @@ of votes each county had of the total votes, and the county that had the largest
 ## Resources
 
 - Data Source was election_results.csv
-- I used the following software: Python 3.7.6, Visual Studio code
+- I used the following software: Python 3.7.6, Visual Studio code.
 
 ## Election Audit Results
 
